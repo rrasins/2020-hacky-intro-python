@@ -1,13 +1,13 @@
 # Introduction to Python Workshop
 
-Welcome to the Macquarie University - Software Carpentry, Introduction to Python Workshop.
+Welcome to the Macquarie University Library - Software Carpentry, Introduction to Python Workshop.
 
-In this repository you will find all the workshop materials used during the two day workshop.
+In this repository you will find all the workshop materials used during the workshop.
 
 ## Here's our Workshop Collaboration Google Doc
 
 ![Google Doc Icon](https://img.icons8.com/color/48/000000/google-docs.png)
-[tinyurl.com/SWC20191203](https://tinyurl.com/SWC20191203)
+[https://tinyurl.com/MQPythonHacky2020](https://tinyurl.com/MQPythonHacky2020)
 
 
 ## Getting Started

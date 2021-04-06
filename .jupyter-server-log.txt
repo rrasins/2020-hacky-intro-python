@@ -167,3 +167,40 @@ TermSocket.open: Opened 1
 [I 01:07:05.799 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 2021-04-06 01:37:08.455 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-06 01:37:08.455 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-04-06 01:37:08.455 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-04-06 01:37:08.455 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-04-06 01:37:08.468 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-04-06 01:37:08.468 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 01:37:08.476 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 01:37:08.478 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 01:37:08.478 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 01:37:08.478 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 01:37:08.478 NotebookApp] http://jupyter-rrasins-2d2020-2dhacky-2dintro-2dpython-2dpw8ju6w2:8888/user/rrasins-2020-hacky-intro-python-pw8ju6w2/?token=...
+[I 01:37:08.478 NotebookApp]  or http://127.0.0.1:8888/user/rrasins-2020-hacky-intro-python-pw8ju6w2/?token=...
+[I 01:37:08.479 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 01:37:08.484 NotebookApp] No web browser found: could not locate runnable browser.
+[I 01:37:10.353 NotebookApp] 302 GET /user/rrasins-2020-hacky-intro-python-pw8ju6w2/ (10.0.51.78) 1.160000ms
+[I 01:37:16.465 NotebookApp] 301 GET /user/rrasins-2020-hacky-intro-python-pw8ju6w2/static/favicons/favicon.ico (14.202.173.21) 0.800000ms
+[I 2021-04-06 01:37:20.195 LabApp] Build is up to date
+[I 01:37:23.321 NotebookApp] Kernel started: 609ac7ca-bf54-4a69-bc3a-638bddaefb68, name: python3
+[I 01:37:23.322 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 01:37:23.322 NotebookApp] Culling kernels even with connected clients
+[I 01:37:23.333 NotebookApp] Kernel started: 0fc5abc1-7838-4a54-8471-981c136baa8e, name: python3
+[I 01:37:23.343 NotebookApp] Kernel started: 2df54ed9-a983-4cce-a8ad-dde2e62c6230, name: python3
+[I 01:37:23.404 NotebookApp] Kernel started: 06c907e9-403f-45ad-a54d-4026790c376a, name: python3
+[I 01:37:29.039 NotebookApp] Starting buffering for 06c907e9-403f-45ad-a54d-4026790c376a:93938f44-d594-40d5-8733-cfa0e412f74e
+[I 01:37:29.893 NotebookApp] 301 GET /user/rrasins-2020-hacky-intro-python-pw8ju6w2/static/favicons/favicon-busy-1.ico (14.202.173.21) 0.740000ms
+[I 01:38:58.364 NotebookApp] Saving file at /lessons/python/ep6-functions.ipynb
+[I 01:39:10.554 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
